@@ -1,0 +1,12 @@
+{
+  "name": "clipin",
+  "version": "1.0.0",
+  "description": "speck",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jsdom": "^15.2.0",
+    "say": "^0.16.0"
+  }
+}
