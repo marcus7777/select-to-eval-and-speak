@@ -1,12 +1,11 @@
 {
-  "name": "clipin",
+  "name": "select to eval and speak",
   "version": "1.0.0",
   "description": "speck",
   "main": "index.js",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "jsdom": "^15.2.0",
-    "say": "^0.16.0"
+    "jsdom": "^15.2.0"
   }
 }
