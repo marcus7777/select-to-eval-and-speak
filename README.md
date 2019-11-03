@@ -8,7 +8,7 @@ need espaek
 var a = 6; var x = a*a*a
 ```
 
-becomes "a is 6 x is 216"
+becomes "a is 6 and x is 216"
 
 ```
 <!DOCTYPE html>
@@ -31,4 +31,4 @@ myFunction()
 </body>
 </html>
 ```
-becomes "JavaScript in Body Paragraph changed."
+becomes "JavaScript in Body Paragraph changed. Try it"
