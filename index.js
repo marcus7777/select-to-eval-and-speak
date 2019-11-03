@@ -23,7 +23,7 @@ var getGlobles = function (ks) {
   }
   return newKs.map(k => {
     return k.key + " is " + k.value 
-  }).join("\\n")
+  }).join("\\n and ")
 }
 getGlobles(globalThis.ks)
         `
